@@ -28,6 +28,7 @@
 
 - Python
 - OOP
+- Abstract Classes
   
 ### Lessons
 
@@ -37,7 +38,11 @@
 - [Wikipedia - BlackJack](https://en.wikipedia.org/wiki/Blackjack)
 - [AskPython](askpython.com/python/examples/blackjack-game-using-python)
 - [Blackjack Game](https://www.arkadium.com/games/blackjack/)
-  
+- Python Resources
+  - [Python Overriding Method](https://www.pythontutorial.net/python-oop/python-overriding-method/)
+  - [Python Abstract Classes](https://www.pythontutorial.net/python-oop/python-abstract-class/)
+  - [Python ABC](https://docs.python.org/3/library/abc.html)
+
 ## Author
 
 - Samuel Oyediran
